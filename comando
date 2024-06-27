@@ -1,0 +1,1 @@
+python main.py --video_path ./test.mp4 --y_pos 800 --clip_duration 30 --num_clips 3
